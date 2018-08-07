@@ -1,0 +1,8 @@
+{
+  "name": "bmi_calculator_ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a3659159"
+}
