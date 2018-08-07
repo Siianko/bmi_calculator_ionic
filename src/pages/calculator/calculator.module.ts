@@ -4,10 +4,10 @@ import { CalculatorPage } from './calculator';
 
 @NgModule({
   declarations: [
-    CalculatorPage,
+    CalculatorPage
   ],
   imports: [
-    IonicPageModule.forChild(CalculatorPage),
+    IonicPageModule.forChild(CalculatorPage)
   ],
 })
 export class CalculatorPageModule {}
